@@ -1,0 +1,26 @@
+{
+  "name": "Martha002.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel",
+    "start": "npm run parcel src/index.html",
+    "build": "npm run parcel build  src/index.html",
+    "release": "node publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martha002/Martha002.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martha002/Martha002.github.io/issues"
+  },
+  "homepage": "https://github.com/Martha002/Martha002.github.io#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
